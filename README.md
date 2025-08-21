@@ -40,7 +40,7 @@ task-manager/
 ├── backend/   # Spring Boot backend
 │   ├── src/main/java/com/yourdomain/taskmanager/
 │   │   ├── controller/
-│   │   ├── model/
+│   │   ├── entity/
 │   │   ├── repository/
 │   │   ├── service/
 │   │   └── TaskManagerApplication.java
